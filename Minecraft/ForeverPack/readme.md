@@ -1,8 +1,9 @@
 
-# ForeverPack v0.1
+# ForeverPack v0.1 
+
+<a class="github-button" href="https://github.com/wildmaster84/files/raw/master/Minecraft/ForeverPack/ForeverPack.jar" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 ForeverPack is a package plugin made for roleplay servers, this plugin is in heavy development with new features and bug patches being fixed every day.
-
 
 Requirements:
   - <a href="https://github.com/wildmaster84/files/tree/master/Minecraft/VehiclesPlusLite">Resource Pack</a> | `To add custom ears to the gui, you must add a resource pack!`
@@ -21,6 +22,7 @@ Permissions:
 
 Comming Soon:
   - Backpacks | adds an extra inventory to carry items.
+  - Config | allows you to edit the guis and set custom items.
 
 
 This file was made by me(wildmaster84) and my friend MrTootToot.
