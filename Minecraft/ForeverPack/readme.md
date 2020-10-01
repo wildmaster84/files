@@ -1,7 +1,7 @@
 
 # ForeverPack v0.1 
 
-<a class="github-button" href="https://github.com/wildmaster84/files/raw/master/Minecraft/ForeverPack/ForeverPack.jar" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
+<a class="github-button" href="https://www.spigotmc.org/resources/foreverpack.84364/" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 ForeverPack is a package plugin made for roleplay servers, this plugin is in heavy development with new features and bug patches being fixed every day.
 
