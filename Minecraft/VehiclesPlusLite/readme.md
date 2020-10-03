@@ -3,6 +3,7 @@ VehiclesPlus Resource Pack | 1.12.2 | v2.7
 # Update Log for v2.7 | <a class="github-button" href="https://github.com/wildmaster84/files/raw/master/Minecraft/VehiclesPlusLite/ForeverResourcePack.zip" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 
+
 Added:
   - Angel Halo
 
