@@ -3,7 +3,7 @@
 This is where i will be publishing all my projects such as texturepacks, games, and plugins.
 # Projects
 
-### [Anime Pro](https://github.com/wildmaster84/files/tree/master/AnimePro)
+### [Anime Pro](https://wildmaster84.github.io/files/AnimePro)
 ### [Minecraft](https://github.com/wildmaster84/files/tree/master/AnimePro)
 
 ### Jekyll Themes
