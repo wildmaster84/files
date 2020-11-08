@@ -4,11 +4,7 @@ This is where i will be publishing all my projects such as texturepacks, games, 
 # Projects
 
 ### [Anime Pro](https://github.com/wildmaster84/files/tree/master/AnimePro)
-2D Animation software.
-
 ### [Minecraft](https://github.com/wildmaster84/files/tree/master/AnimePro)
-Textures/Plugins
-
 
 ### Jekyll Themes
 
