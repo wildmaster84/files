@@ -21,7 +21,7 @@ Note:
 This file is now be referred to "ForeverResourcePack" so make sure to update the resource link in the `server.properties`.
 If you are not in our discord then i would recommend joining to follow our update log for all of our resources to soon be released.
 
-Discord: https://foreverroleplay.ga/Discord/
+Discord: https://foreverroleplay.ga/Discord/?invite=hVUNA3uWjk
 
 
 # __________________________________________________________
@@ -49,7 +49,7 @@ Note:
 This file is now be referred to "ForeverResourcePack" so make sure to update the resource link in the `server.properties`.
 If you are not in our discord then i would recommend joining to follow our update log for all of our resources to soon be released.
 
-Discord: https://foreverroleplay.ga/Discord/
+Discord: https://foreverroleplay.ga/Discord/?invite=hVUNA3uWjk
 
 
 # __________________________________________________________
@@ -74,4 +74,4 @@ Note:
 This file will now be referred to "ForeverResourcePack" in the next following update so make sure to update the resource link in the `server.properties`.
 If you are not in our discord then i would recommend joining to follow our update log for all of our resources to soon be released.
 
-Discord: https://foreverroleplay.ga/Discord/
+Discord: https://foreverroleplay.ga/Discord/?invite=hVUNA3uWjk
