@@ -1,5 +1,5 @@
 
-# ForeverPack v0.1 
+# ForeverPack v0.1 (Outdated, pleause use the latest version from Spigot)
 
 <a class="github-button" href="https://www.spigotmc.org/resources/foreverpack.84364/" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
